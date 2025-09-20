@@ -1,3 +1,2 @@
-# gif python maker
+# Gif python maker
  
-# checking README with commits
