@@ -5,7 +5,7 @@ This project generates an animated GIF from a sequence of PNG images using Pytho
 
 There are two ways to use the script:
 1. **Manual GIF Maker (main)** – list the image filenames yourself.  
-2. **Pathlib (auto-pull)** – automatically gather all `.png` images from a folder.  
+2. **Pathlib [(auto-pull)](https://github.com/uri3lrex/gif-python-maker/tree/auto-pull)** – automatically gather all `.png` images from a folder.  
 
 ---
 
